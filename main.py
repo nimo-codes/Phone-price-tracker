@@ -1,4 +1,4 @@
-import playsound
+from playsound import playsound
 import requests
 from bs4 import BeautifulSoup
 import smtplib
